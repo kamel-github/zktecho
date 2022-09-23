@@ -1,0 +1,5 @@
+.td-price{
+  .text-danger:not(.non_discount_option_price){
+    display: none !important;
+  }
+}
